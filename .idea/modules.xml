@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Email/Email.iml" filepath="$PROJECT_DIR$/Email/Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encipherment/Encipherment.iml" filepath="$PROJECT_DIR$/Encipherment/Encipherment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InOut/InOut.iml" filepath="$PROJECT_DIR$/InOut/InOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaChat/JavaChat.iml" filepath="$PROJECT_DIR$/JavaChat/JavaChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDoc/JavaDoc.iml" filepath="$PROJECT_DIR$/JavaDoc/JavaDoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE8Tutorial.iml" filepath="$PROJECT_DIR$/JavaSE8Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loop/Loop.iml" filepath="$PROJECT_DIR$/Loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Network/Network.iml" filepath="$PROJECT_DIR$/Network/Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question/Question.iml" filepath="$PROJECT_DIR$/Question/Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" filepath="$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+    </modules>
+  </component>
+</project>

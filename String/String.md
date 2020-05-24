@@ -1,0 +1,14 @@
+# String StringBuffer StringBuilder区别
+
+String字符串常量不可变使用字符串拼接时会开辟新空间
+
+StringBuffer字符串变量可变线程安全字符串拼接直接在字符串后追加
+
+StringBuilder字符串变量可变非线程安全字符串拼接直接在字符串后追加
+
+1. StringBuilder执行效率高StringBuffer，高于String.
+
+2. String是一个常量，是不可变的，所以对于每一次+=赋值都会创建一个新的对象， StringBuffer和StringBuilder都是可变的，当进行字符串拼接时采用append方 法，在原来的基础上进行追加，所以性能比String要高，
+StringBuffer是线程安全的而StringBuilder是线程非安全的，所以StringBuilder的效率高于StringBuffer.
+
+3. 对于大数据量的字符串的拼接，采用StringBuffer,StringBuilder.
