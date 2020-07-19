@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" filepath="$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
       <module fileurl="file://$PROJECT_DIR$/Email/Email.iml" filepath="$PROJECT_DIR$/Email/Email.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encipherment/Encipherment.iml" filepath="$PROJECT_DIR$/Encipherment/Encipherment.iml" />
