@@ -6,14 +6,14 @@ public class TestConnection {
         /*
          * MySQL5.7
          * driver = com.mysql.jdbc.Driver
-         * url = jdbc:mysql://localhost:3306/test?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF8
+         * url = jdbc:mysql://localhost:3306/test?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF8MB4
          *
          * MySQL8.0
          * driver = com.mysql.cj.jdbc.Driver
-         * url = jdbc:mysql://localhost:3308/test?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF8&amp;serverTimezone=UTC
+         * url = jdbc:mysql://localhost:3308/test?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF8MB4&amp;serverTimezone=UTC
          */
         String driver = "com.mysql.jdbc.Driver";
-        String url = "jdbc:mysql://localhost:3306/test?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF8";
+        String url = "jdbc:mysql://localhost:3306/test?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF8MB4";
         String username = "root";
         String password = "201606";
         Connection conn = null;
